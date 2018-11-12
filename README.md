@@ -1,6 +1,6 @@
 # vue_js
 
-> booking form using vueJS
+> a form for booking hotel using vueJS && Webpack
 
 ## Build Setup
 
